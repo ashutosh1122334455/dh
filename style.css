@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(21, 255, 0);
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy{
+    color: rgb(255, 38, 0);
+}
